@@ -1,0 +1,13 @@
+programa {
+  funcao inicio() {
+    real dolares, valor_real
+    escreva ("insira uma quantia em dolares-->>> ", dolares)
+    leia (dolares)
+    valor_real = dolares * 4.96
+    escreva ("Valor convertido para real-->>> ", valor_real)
+
+
+
+    
+  }
+}
