@@ -1,0 +1,17 @@
+programa {
+  funcao inicio() {
+    real peso, altura, imc_calculo
+    escreva ("Informe o seu peso-->>> ", peso)
+    leia (peso)
+    escreva ("Informe a sua altura-->>> ", altura)
+    leia (altura)
+    imc_calculo = peso / (altura * altura) 
+    escreva ("O seu Imc é-->>> ", imc_calculo) 
+   
+
+    
+    
+
+    
+  }
+}
