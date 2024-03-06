@@ -1,2 +1,2 @@
-Estarei lançando aqui neste repositorio ativiades que fiz em Portugol
+Estarei lançando aqui neste repositorio atividades que fiz em Portugol
 
