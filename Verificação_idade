@@ -1,12 +1,12 @@
 programa {
   funcao inicio() {
     real idade, maior_idade
-    escreva ("informe sua idade-->>> ", idade)
+    escreva ("informe sua idade-->>> ")
     leia (idade)
     maior_idade = 18
   
     se (idade < maior_idade)
-    escreva ("Usuario não possui os requerimentos para prosseguir com o cadastro")
+    escreva ("Usuario nÃ£o possui os requerimentos para prosseguir com o cadastro")
 
     se (idade >= maior_idade)
     escreva ("Bem vindo a proxima etapa do cadastro")
